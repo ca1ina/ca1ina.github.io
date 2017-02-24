@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vue.js  : 개념
+title: Vue.js - 개념
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
