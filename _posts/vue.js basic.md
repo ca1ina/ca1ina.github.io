@@ -1,3 +1,10 @@
+---
+layout: post
+title: Vue.js  : 개념
+---
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
 # Vue.js 기초 : 개념<br /><br />
 ## 사용 이유
 
